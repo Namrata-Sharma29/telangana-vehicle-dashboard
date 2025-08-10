@@ -10,6 +10,14 @@ This project enables interactive analysis and visualization of Regional Transpor
 - **Business insight modules:** Discover top-performing districts, vehicle types, and time periods
 - **Interactive dashboard/web app:** Explore data with filters and downloadable reports (CSV/ZIP)
 
+## Tools Used
+- MS Excel
+- Python
+- MySQL
+- PowerBI
+- ML using Python
+- Gradio for Web-App
+
 ## Data Source
 - Telangana RTA open data, 2019–2025 (https://data.telangana.gov.in/dataset/regional-transport-authority-vehicle-online-sales-data-2019-2025)
 
